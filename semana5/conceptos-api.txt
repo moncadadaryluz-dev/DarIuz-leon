@@ -1,0 +1,8 @@
+La ruta POST /reporte permite recibir información enviada por el usuario.
+
+Sirve para registrar mensajes o reportes dentro de una aplicación.
+
+En una aplicación comunitaria puede servir para enviar alertas,
+problemas o reportes de forma organizada.
+
+Las APIs permiten la comunicación entre sistemas de forma estructurada.

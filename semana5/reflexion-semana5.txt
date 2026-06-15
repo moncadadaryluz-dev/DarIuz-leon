@@ -1,0 +1,9 @@
+Las APIs son muy importantes en el desarrollo de aplicaciones modernas.
+Permiten que diferentes sistemas se comuniquen entre sí de forma fácil.
+En una comunidad pueden ayudar a enviar reportes y alertas rápidamente.
+Esto mejora la comunicación entre ciudadanos y autoridades.
+También permite organizar la información de manera eficiente.
+Con Node.js y Express se pueden crear servidores simples y funcionales.
+Las rutas ayudan a definir cómo responde el servidor a cada solicitud.
+El uso de APIs hace que la tecnología sea más útil en la vida diaria.
+Aprender esto es importante para el desarrollo web.
