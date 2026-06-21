@@ -1,0 +1,1 @@
+El servidor recibe los datos enviados por POST y responde con un JSON donde confirma que los datos fueron recibidos correctamente, mostrando el nombre y el mensaje enviados por el usuario.
