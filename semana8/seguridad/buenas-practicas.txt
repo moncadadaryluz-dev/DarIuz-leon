@@ -1,3 +1,0 @@
-1. Usar contraseñas fuertes y no compartirlas.
-2. No guardar credenciales en archivos públicos.
-3. Mantener el sistema y software actualizado.
