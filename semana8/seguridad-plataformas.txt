@@ -1,0 +1,5 @@
+1. No exponer datos personales.
+2. Usar contraseñas fuertes.
+3. Proteger credenciales y tokens.
+4. Usar HTTPS en las conexiones.
+5. Limitar accesos según roles.
