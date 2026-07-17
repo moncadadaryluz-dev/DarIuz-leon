@@ -1,0 +1,7 @@
+Automatización
+
+Evento: Se registra una nueva causa en la plataforma.
+
+Mensaje: "Se ha creado una nueva causa en Petición en 3 Clics. Ingresa para conocerla y brindar tu apoyo."
+
+Información que no debe enviarse: cédulas, teléfonos, direcciones, correos electrónicos, comentarios privados ni otros datos personales sensibles.
